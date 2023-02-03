@@ -1,0 +1,18 @@
+/*Esta hoja de estilos se aplica sólo a pantallas de menos de 601px.
+
+La fuente Tengwar (introducida en la obra literaria de J.R.R. Tolkien,
+para más info https://es.wikipedia.org/wiki/Tengwar) no existe como tal en Google Fonts
+por lo que se obtuvo del siguiente sitio y consta de tres estilos
+  https://www.cdnfonts.com/tengwar-345.font
+  font-family: 'Tengwar 03', sans-serif;
+  font-family: 'Tengwar 04', sans-serif;
+  font-family: 'Tengwar 05', sans-serif;
+*/
+
+*{
+  font-family: 'Tengwar 03', sans-serif;
+}
+
+h1, h3, h5, p, div, button {
+    font-family: 'Tengwar 03', sans-serif;
+}

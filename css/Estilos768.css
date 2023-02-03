@@ -1,0 +1,67 @@
+/*Esta hoja de estilos se aplica sólo a pantallas entre 601 y 768px*/
+
+body {
+    background-color: #D4EDF7;
+    }
+  
+  header, nav {
+    background-color: #2347A9;
+    color: #D4EDF7;
+    text-align: center;
+    border: 5px solid #4424D6;
+    border-radius: 8px;
+    }
+  
+  header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+  
+  h1 {
+    padding: 10px;
+    margin: 10px 5px;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    }
+  
+  nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 40px;
+    font-family: "Lucida Handwriting", Verdana, monospace;
+    }
+  
+  section {
+    margin: 20px;
+    }
+  
+  img {
+    width: 200px;
+    height: auto;
+    }
+  
+  h3 {
+    background-color: #4424D6;
+    color: #D4EDF7;
+    padding: 5px;
+    border-bottom: 3px solid #2347A9;
+    font-family: 'Roboto', sans-serif;
+    }
+  
+  div {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold
+  }
+  
+  button {
+    font-size: 12px;
+    border: 1px solid #110934;
+    background-color: #D4EDF7;
+    }
+  
+  footer {
+    background-color: #110934;
+    color: #347B98;
+    }
